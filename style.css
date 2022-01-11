@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
+
+.delete:hover {
+  text-decoration: underline;
+}
